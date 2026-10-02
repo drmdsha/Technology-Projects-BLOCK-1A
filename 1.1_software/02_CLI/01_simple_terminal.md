@@ -16,7 +16,7 @@ Learn how to check where you are and explore folders.
    cd Technology_Projects
    cd Week 02
    cd CLI
-   ```
+   ```sdfdsfsdfdsfdsfsdfdsfsdfdsfff
 7. Inside that folder, list all files (including hidden ones):
    ```bash
    ls -a
