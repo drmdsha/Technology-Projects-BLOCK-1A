@@ -1,6 +1,6 @@
 ## Adding Binary Numbers
    - 1011 + 1101 =837482374
-   - 100110 + 101011
+   - 100110 + 101011 =k3423432
    - 11101 + 10111
 
 ## Subtracting Binary Numbers
